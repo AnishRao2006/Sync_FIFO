@@ -13,7 +13,7 @@ intermediate storage element to manage data flow between logic blocks.
 ## Files
 - `top_module.sv` - Top level 
 - `fifo_sync.sv` - Parameterized FIFO
-- `ss_interface.sv` - Used for interfacing the seven-segment display  
+- `ssd_interface.sv` - Used for interfacing the seven-segment display  
 - `top_module.xdc` - Pin mappings
 - `sync_fifo_tb.sv` - UVM lite SV based testbench
 
