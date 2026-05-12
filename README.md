@@ -1,4 +1,4 @@
-# Project Name
+# Synchronous FIFO
 
 **Date:** May 2026  
 **Board:** Spartan7
